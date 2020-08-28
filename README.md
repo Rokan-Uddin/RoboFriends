@@ -7,8 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Run this project
 
 After clone this project in your machine, run  `npm install` in RoboFrineds directory's command prompt.
-Then, you can run: ### `npm start`
-
+Then, you can run: 
+### `npm start`
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
